@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\OdeToFood\OdeTofood.Core\bin\Debug\netcoreapp3.1\OdeTofood.Core.deps.json
+C:\Users\Lenovo\source\repos\OdeToFood\OdeTofood.Core\bin\Debug\netcoreapp3.1\OdeTofood.Core.dll
+C:\Users\Lenovo\source\repos\OdeToFood\OdeTofood.Core\bin\Debug\netcoreapp3.1\OdeTofood.Core.pdb
+C:\Users\Lenovo\source\repos\OdeToFood\OdeTofood.Core\obj\Debug\netcoreapp3.1\OdeTofood.Core.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\OdeToFood\OdeTofood.Core\obj\Debug\netcoreapp3.1\OdeTofood.Core.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\OdeToFood\OdeTofood.Core\obj\Debug\netcoreapp3.1\OdeTofood.Core.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\OdeToFood\OdeTofood.Core\obj\Debug\netcoreapp3.1\OdeTofood.Core.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\OdeToFood\OdeTofood.Core\obj\Debug\netcoreapp3.1\OdeTofood.Core.dll
+C:\Users\Lenovo\source\repos\OdeToFood\OdeTofood.Core\obj\Debug\netcoreapp3.1\OdeTofood.Core.pdb
